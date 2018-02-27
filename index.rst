@@ -11,3 +11,4 @@ Welcome to CodeRefinery Test's documentation!
    :caption: Contents:
 
    feature-a
+   feature-b
